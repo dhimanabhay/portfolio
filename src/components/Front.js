@@ -17,6 +17,7 @@ const Front = () => {
                 </h1>
                 <div>
                     <Link to="/project" className="btn">PROJECTS</Link>
+                    <Link to="/about" className="btn">About</Link>
                 </div>
 
             </div>
